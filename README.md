@@ -13,9 +13,9 @@ En Picap trabajo sobre la API principal, hecha en Ruby on Rails con MongoDB. Has
 - Pruebas para la billetera Picash y la verificación de identidad al registrar tarjetas.
 - Pantallas del nuevo panel administrativo con Hotwire y Tailwind CSS.
 
-Casi todo lo que hago lleva pruebas en RSpec y pasa por revisión de código antes de llegar a producción.
+Casi todo lo que hago lleva pruebas en RSpec y pasa por revisión de código antes de llegar a producción. Ese código es privado, por eso aquí solo se ve en la gráfica de contribuciones.
 
-En el día a día trabajo con agentes de IA (Claude Code y Gemini) siguiendo Spec-Driven Development con Spec Kit: primero se escribe y se revisa la especificación y el plan, después el código, y lo que genera la IA pasa por las mismas pruebas y la misma revisión que cualquier otro cambio. Ese código es privado, por eso aquí solo se ve en la gráfica de contribuciones.
+En el día a día trabajo con agentes de IA (Claude Code y Gemini) siguiendo Spec-Driven Development con Spec Kit: primero se escribe y se revisa la especificación y el plan, después el código, y lo que genera la IA pasa por las mismas pruebas y la misma revisión que cualquier otro cambio.
 
 ## Proyectos
 
