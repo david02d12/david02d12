@@ -1,11 +1,35 @@
-## Hola, soy David
+# Anderson David Joya Peña
 
-Estoy terminando el Tecnólogo en Análisis y Desarrollo de Software en el SENA (me gradúo en marzo de 2027) y desde septiembre de 2026 hago mi etapa productiva en [Picap](https://picap.app) como desarrollador backend.
+Desarrollador backend junior en Bogotá, Colombia.
 
-Allá trabajo sobre la API principal, que está en Ruby on Rails con MongoDB. Me ha tocado programar reglas de comisión para conductores, la lógica de los planes de suscripción por categoría, pruebas para la billetera Picash y algunas pantallas del panel administrativo con Hotwire y Tailwind. Casi todo lo que hago lleva pruebas en RSpec y pasa por revisión de código antes de salir.
+Estoy terminando el Tecnólogo en Análisis y Desarrollo de Software en el SENA (me gradúo en marzo de 2027). Desde septiembre de 2026 hago mi etapa productiva en [Picap](https://picap.app), en el equipo de backend.
 
-Antes de eso, con mi equipo del SENA hicimos [CeluAccel](https://github.com/david02d12/celuaccel), una plataforma para pedir y seguir reparaciones de celulares. La API está en Node.js con Express y MySQL, el front en React y la app móvil en Kotlin. Es el proyecto donde más he aprendido fuera del trabajo.
+## En qué trabajo
 
-Con lo que más trabajo hoy: Ruby on Rails, MongoDB, RSpec, Node.js, React, MySQL y Git.
+En Picap trabajo sobre la API principal, hecha en Ruby on Rails con MongoDB. Hasta ahora me ha tocado:
 
-Estoy buscando mi primer trabajo como desarrollador junior, idealmente en backend. Si quieres hablar, escríbeme a david02d12@gmail.com.
+- Las reglas de comisión condicional para conductores, por turno y por categoría.
+- La lógica que decide qué planes de suscripción puede ver, comprar y renovar cada conductor.
+- Pruebas para la billetera Picash y la verificación de identidad al registrar tarjetas.
+- Pantallas del nuevo panel administrativo con Hotwire y Tailwind CSS.
+
+Casi todo lo que hago lleva pruebas en RSpec y pasa por revisión de código antes de llegar a producción. Ese código es privado, por eso aquí solo se ve en la gráfica de contribuciones.
+
+## Proyectos
+
+**[CeluAccel](https://github.com/david02d12/celuaccel)**: plataforma para pedir y seguir reparaciones de celulares, con chat en tiempo real entre cliente y técnico. La hicimos en equipo en el SENA y yo escribí la mayor parte del código. API en Node.js con Express y MySQL, frontend en React y app móvil en Kotlin, con pruebas E2E en WebdriverIO.
+
+**[Proyecto_js_jsx](https://github.com/david02d12/Proyecto_js_jsx)** y **[Proyecto-ADSO](https://github.com/david02d12/Proyecto-ADSO)**: versiones anteriores del mismo proyecto. La primera en React y Express, y el prototipo inicial en HTML y Laravel.
+
+## Herramientas
+
+- **Backend:** Ruby on Rails, Node.js (Express), Laravel
+- **Frontend:** JavaScript, React, Hotwire, Tailwind CSS, Bootstrap
+- **Bases de datos:** MongoDB, MySQL, PostgreSQL, MariaDB
+- **Pruebas:** RSpec, WebdriverIO, Bruno y Postman para probar endpoints
+- **Día a día:** Git, GitHub Actions, Sidekiq, Swagger, Trello
+
+## Contacto
+
+Estoy buscando trabajo como desarrollador junior, de preferencia en backend.
+Correo: david02d12@gmail.com
