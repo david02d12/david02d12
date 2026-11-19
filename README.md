@@ -35,4 +35,5 @@ En el día a día trabajo con agentes de IA (Claude Code y Gemini) siguiendo Spe
 ## Contacto
 
 Estoy buscando trabajo como desarrollador junior, de preferencia en backend.
-Correo: david02d12@gmail.com
+Correo: david02d12@gmail.com  
+LinkedIn: [linkedin.com/in/anderson-joya](https://www.linkedin.com/in/anderson-joya)
