@@ -35,5 +35,8 @@ En el día a día trabajo con agentes de IA (Claude Code y Gemini) siguiendo Spe
 ## Contacto
 
 Estoy buscando trabajo como desarrollador junior, de preferencia en backend.
+
+También tomo proyectos freelance: APIs REST en Ruby on Rails o Node.js, aplicaciones web con React o Hotwire, y pruebas automatizadas (RSpec, E2E). Escríbeme por correo o LinkedIn.
+
 Correo: david02d12@gmail.com  
 LinkedIn: [linkedin.com/in/anderson-joya](https://www.linkedin.com/in/anderson-joya)
